@@ -11,18 +11,18 @@ Extensão para Chrome/Edge que adiciona automaticamente o código de afiliado do
 
 ## 🚀 Como usar
 
-### Instalação da versão empacotada (Recomendado)
-1. Baixe o arquivo `.crx` na seção [Releases](../../releases)
-2. Abra Chrome/Edge e vá em Extensões
-3. Arraste o arquivo `.crx` para a página
-4. Confirme a instalação
+### Instalação (Recomendado)
+1. Baixe o arquivo ZIP na seção [Releases](../../releases)
+2. Extraia o arquivo ZIP para uma pasta
+3. Abra Chrome/Edge e vá em `chrome://extensions/` ou `edge://extensions/`
+4. Ative o "Modo do desenvolvedor"
+5. Clique em "Carregar sem compactação"
+6. Selecione a pasta extraída
 
-### Instalação do código fonte
-1. Clone ou baixe este repositório
-2. Abra Chrome/Edge e vá em `chrome://extensions/` ou `edge://extensions/`
-3. Ative o "Modo do desenvolvedor"
-4. Clique em "Carregar sem compactação"
-5. Selecione a pasta do projeto
+### Instalação alternativa (Código fonte)
+1. Clone ou baixe este repositório como ZIP
+2. Extraia para uma pasta
+3. Siga os passos 3-6 acima
 
 ## 🛡️ Privacidade
 
@@ -32,7 +32,7 @@ Extensão para Chrome/Edge que adiciona automaticamente o código de afiliado do
 
 ## 💡 Como funciona
 
-Quando você visita um produto na Amazon Brasil, a extensão automaticamente adiciona o código de afiliado do Overloadr na URL, garantindo que o podcast Overloadr receba crédito pela compra.
+Quando você visita um produto na Amazon Brasil, a extensão automaticamente adiciona o código de afiliado do Overloadr na URL, garantindo que o podcast receba crédito pela compra.
 
 **Exemplo:**
 - Antes: `https://amazon.com.br/dp/B08N5WRWNW`

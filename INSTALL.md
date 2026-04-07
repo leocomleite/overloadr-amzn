@@ -1,19 +1,19 @@
-# � Como Instalar a Extensão Overloadr
+# 📦 Como Instalar a Extensão Overloadr
 
-## Método 1: Versão Empacotada (Mais Fácil)
+## Método 1: Download ZIP (Recomendado)
 
-1. Baixe o arquivo `.crx` na seção [Releases](../../releases) 
-2. Abra Chrome ou Edge
-3. Arraste o arquivo `.crx` para a página de extensões
-4. Confirme a instalação
+1. Baixe o arquivo ZIP na seção [Releases](../../releases)
+2. Extraia o arquivo para uma pasta no seu computador
+3. Abra `chrome://extensions/` (Chrome) ou `edge://extensions/` (Edge)
+4. Ative o "Modo do desenvolvedor" no canto superior direito
+5. Clique em "Carregar sem compactação"
+6. Selecione a pasta onde você extraiu os arquivos
 
-## Método 2: Código Fonte (Para Desenvolvedores)
+## Método 2: Clonar Repositório (Para Desenvolvedores)
 
-1. Clone ou baixe este repositório
-2. Abra `chrome://extensions/` (Chrome) ou `edge://extensions/` (Edge)
-3. Ative o "Modo do desenvolvedor" 
-4. Clique "Carregar sem compactação"
-5. Selecione a pasta do projeto
+1. Clone este repositório: `git clone [URL_DO_REPO]`
+2. Ou baixe como ZIP e extraia
+3. Siga os passos 3-6 do Método 1 acima
 
 ## ✅ Pronto!
 
