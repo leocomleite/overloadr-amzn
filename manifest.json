@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Overloadr Amazon Affiliate Helper",
+  "name": "Overloadr - Amazon Afiliados",
   "version": "1.0",
-  "description": "Automatically adds Overloadr podcast affiliate code when browsing Amazon Brazil",
+  "description": "Adiciona automaticamente código de afiliado do podcast Overloadr em produtos Amazon Brasil",
   "permissions": [
     "activeTab"
   ],
@@ -22,7 +22,7 @@
       "48": "icon48.png",
       "128": "icon128.png"
     },
-    "default_title": "Overloadr Affiliate Helper - Active on Amazon Brazil"
+    "default_title": "Overloadr Afiliados - Ativo na Amazon Brasil"
   },
   "icons": {
     "16": "icon16.png",
