@@ -10,8 +10,10 @@ Extensão para Chrome/Edge que adiciona automaticamente o código de afiliado do
 - ✅ **Simples**: Apoie o podcast sem esforço extra
 
 ## 🚀 Como usar
+[Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/overloadr-amazon-afilia/kndmjfmccgndddfjnbadjabjofkdhgeo)
+Google Chrome - Esperando aprovação do Google.
 
-### Instalação (Recomendado)
+### Instalação Manual (Recomendado)
 1. Baixe o arquivo ZIP na seção [Releases](../../releases)
 2. Extraia o arquivo ZIP para uma pasta
 3. Abra Chrome/Edge e vá em `chrome://extensions/` ou `edge://extensions/`
